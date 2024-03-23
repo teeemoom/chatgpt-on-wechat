@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 简介
 
 > 本项目是基于大模型的智能对话机器人，支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/LinkAI/ZhipuAI，能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业AI应用。
@@ -278,3 +279,7 @@ FAQs： <https://github.com/zhayujie/chatgpt-on-wechat/wiki/FAQs>
 ## 联系
 
 欢迎提交PR、Issues，以及Star支持一下。程序运行遇到问题可以查看 [常见问题列表](https://github.com/zhayujie/chatgpt-on-wechat/wiki/FAQs) ，其次前往 [Issues](https://github.com/zhayujie/chatgpt-on-wechat/issues) 中搜索。个人开发者可加入开源交流群参与更多讨论，企业用户可联系[产品顾问](https://img-1317903499.cos.ap-guangzhou.myqcloud.com/docs/product-manager-qrcode.jpg)咨询。
+=======
+# chatgpt-on-wechat
+微信聊天
+>>>>>>> 005925e1329f9f7512172bc04784a699a645947d
